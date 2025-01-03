@@ -4,6 +4,11 @@ UAC Steam Downloader Scheduler is a powerful and intuitive Python-based GUI appl
 
 ---
 
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f06b47bc-9dd2-4e22-9346-8a3eb0b4aa05" alt="UAC Steam Downloader Screenshot" width="600">
+</div>
+
 ## ✨ Features
 
 - 🕒 **Schedule Downloads**: Set a specific time to start downloading your favorite games from Steam.
