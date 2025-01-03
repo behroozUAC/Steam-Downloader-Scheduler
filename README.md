@@ -77,7 +77,7 @@ To enable automatic downloads:
 3. Use this application to schedule the download at your preferred time.
 4. Optionally, let the app shut down your computer after the download completes.
 
----
+
 
 ---
 
